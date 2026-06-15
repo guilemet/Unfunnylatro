@@ -1,0 +1,11 @@
+{
+	"id": "Unfunnylatro",
+	"name": "Unfunnylatro",
+	"author": ["guilemet"],
+	"description": "Replaces the names of certain Blinds, Tarots and Jokers with unfunny inside jokes",
+	"prefix": "ufl",
+	"main_file": "main.lua",
+	"priority": 0,
+	"version": "1.0.0",
+	"dependencies": []
+}
